@@ -1,0 +1,5 @@
+{
+  "name": "SuaraAI Studio",
+  "description": "Aplikasi editor naskah ke suara (Text-to-Speech) menggunakan teknologi Google Gemini AI dengan dukungan multi-pembicara.",
+  "requestFramePermissions": []
+}
